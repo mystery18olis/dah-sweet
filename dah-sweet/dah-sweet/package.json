@@ -1,0 +1,9 @@
+{
+  "name": "dah-sweet",
+  "version": "1.0.0",
+  "description": "DAH SWEET restaurant and gaming facility: menu, drinks, games, orders and payments",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.19.2" }
+}
